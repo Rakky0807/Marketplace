@@ -76,4 +76,42 @@ JWT_SECRET=your_jwt_secret
 -Start the backend server: npm start
 
 
+2️)Frontend Setup (React & Tailwind CSS):
+
+-Navigate to the frontend directory: cd digital-marketplace/frontend
+
+-Install dependencies: npm install
+
+-Run the development server: npm run dev
+
+-Open your browser and go to: http://localhost:5173
+
+# Test User Credentials
+Use the following test users to explore the platform (only authenticated users can purchase or leave reviews):
+
+Username: testuser1@example.com Password: pass123
+
+Username: testuser2@example.com Password: pass123
+
+Username: testuser3@example.com Password: pass123
+
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/f57d05d1-b6bd-4055-a963-bbfa8189e041)
+
+![image](https://github.com/user-attachments/assets/3e7f7bcf-7627-4ce8-9ef6-75051f322fd8)
+
+![image](https://github.com/user-attachments/assets/dbe3e67e-2ee2-42e5-b52d-74c93d41dfab)
+
+![image](https://github.com/user-attachments/assets/2eeb5053-b28d-4cfb-80d5-ce44a845a6c7)
+
+![image](https://github.com/user-attachments/assets/f0970e3d-9066-4600-a891-0d9dc7998b58)
+
+![image](https://github.com/user-attachments/assets/f66f7320-67db-4d77-8aa7-c9e47793e211)
+
+![image](https://github.com/user-attachments/assets/5a9ee285-9233-4178-9060-3b8528e57261)
+
+
+
+
 
